@@ -1,5 +1,5 @@
 # IEEE-ITSS-Conference-Archive
-The repository archives valuable information related to intelligent transportation systems. 
+The repository archives valuable information related to intelligent transportation systems from 2018 through 2023. 
 
 
 ## Table of Contents
