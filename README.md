@@ -5,9 +5,9 @@ The repository archives valuable information related to intelligent transportati
 ## Table of Contents
 
 - [Conference Websites by Year](#conference-websites-by-year)
-- [Papers](#papers)
+- [Academic Papers](#academic-papers)
 - [Presentations](#presentations)
-- [Proceedings](#proceedings)
+- [Conference Proceedings](#conference-proceedings)
 
 ## Conference Websites by Year
 
@@ -18,7 +18,7 @@ The repository archives valuable information related to intelligent transportati
 - [2019](conference-2019/)
 - [2018](conference-2018/)
 
-## Papers
+## Academic Papers
 
 - [Paper 1](papers/paper1.pdf)
 - [Paper 2](papers/paper2.pdf)
@@ -31,7 +31,7 @@ The repository archives valuable information related to intelligent transportati
 - [Presentation 1](presentations/presentation1.pdf)
 - [Presentation 2](presentations/presentation2.pdf)
 
-## Proceedings
+## Conference Proceedings
 
 - [Conference Proceedings 2023](proceedings/conference-proceedings-2023.pdf)
 - [Conference Proceedings 2022](proceedings/conference-proceedings-2022.pdf)
