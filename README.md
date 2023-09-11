@@ -33,12 +33,12 @@ The repository archives valuable information related to intelligent transportati
 
 ## Conference Proceedings
 
-- [Conference Proceedings 2023](proceedings/conference-proceedings-2023.pdf)
-- [Conference Proceedings 2022](proceedings/conference-proceedings-2022.pdf)
-- [Conference Proceedings 2021](proceedings/conference-proceedings-2021.pdf)
-- [Conference Proceedings 2020](proceedings/conference-proceedings-2020.pdf)
-- [Conference Proceedings 2019](proceedings/conference-proceedings-2019.pdf)
-- [Conference Proceedings 2018](proceedings/conference-proceedings-2018.pdf)
+- [Conference Proceedings 2023](proceedings/conference-proceedings-2023)
+- [Conference Proceedings 2022](proceedings/conference-proceedings-2022)
+- [Conference Proceedings 2021](proceedings/conference-proceedings-2021)
+- [Conference Proceedings 2020](proceedings/conference-proceedings-2020)
+- [Conference Proceedings 2019](proceedings/conference-proceedings-2019)
+- [Conference Proceedings 2018](proceedings/conference-proceedings-2018)
 
 
 
