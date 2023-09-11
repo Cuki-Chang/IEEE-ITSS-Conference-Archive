@@ -1,6 +1,5 @@
 # IEEE-ITSS-Conference-Archive
-The repository archives valuable information related to intelligent transportation systems(2018-2023). 
-
+The repository archives valuable information related to intelligent transportation systems from 2018 to the present.
 
 ## Table of Contents
 
@@ -11,6 +10,7 @@ The repository archives valuable information related to intelligent transportati
 
 ## Conference Websites by Year
 
+- [2024](conference-2024/)
 - [2023](conference-2023/)
 - [2022](conference-2022/)
 - [2021](conference-2021/)
@@ -43,6 +43,7 @@ The repository archives valuable information related to intelligent transportati
 
 ## Conference Proceedings
 
+- [Conference Proceedings 2024](proceedings/conference-proceedings-2024)
 - [Conference Proceedings 2023](proceedings/conference-proceedings-2023)
 - [Conference Proceedings 2022](proceedings/conference-proceedings-2022)
 - [Conference Proceedings 2021](proceedings/conference-proceedings-2021)
