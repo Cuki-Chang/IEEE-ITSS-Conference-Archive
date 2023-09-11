@@ -51,6 +51,13 @@ The repository archives valuable information related to intelligent transportati
 - [Conference Proceedings 2019](proceedings/conference-proceedings-2019)
 - [Conference Proceedings 2018](proceedings/conference-proceedings-2018)
 
+## Contributing
+
+Please feel free to send pull requests or contact me via email (changliu@hit.bme.hu) to add links, suggest improvements, or report issues.
+
+We welcome contributions from the community and appreciate your help in making this project better.
+
+
 
 
 
