@@ -19,3 +19,32 @@ To use this project, follow these steps:
 1. Clone the repository.
 2. Run the `setup.py` script.
 
+
+## Table of Contents
+
+- [Conference Materials by Year](#conference-materials-by-year)
+- [Papers](#papers)
+- [Presentations](#presentations)
+- [Proceedings](#proceedings)
+
+## Conference Materials by Year
+
+- [2022](conference-2022/)
+- [2021](conference-2021/)
+- [2020](conference-2020/)
+
+## Papers
+
+- [Paper 1](papers/paper1.pdf)
+- [Paper 2](papers/paper2.pdf)
+
+## Presentations
+
+- [Presentation 1](presentations/presentation1.pdf)
+- [Presentation 2](presentations/presentation2.pdf)
+
+## Proceedings
+
+- [Conference Proceedings 2022](proceedings/conference-proceedings-2022.pdf)
+- [Conference Proceedings 2021](proceedings/conference-proceedings-2021.pdf)
+
