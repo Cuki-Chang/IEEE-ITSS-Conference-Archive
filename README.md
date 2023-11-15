@@ -2,6 +2,13 @@
 
 IEEE-ITSS-Conference-Archive-The repository archives valuable information related to intelligent transportation systems from 2020 to the present(continuous updating).
 
+:chart_with_upwards_trend: :clipboard: :bar_chart: :file_folder:
+:page_facing_up: :notebook: :memo: :film_strip:
+:movie_camera: :film_projector: :desktop_computer: :tv:
+:microphone: :studio_microphone: :loudspeaker: :speaking_head:
+:raising_hand: :man_raising_hand: :woman_raising_hand: :speaking_head:
+
+
 
 ## :star: Table of Contents
 
