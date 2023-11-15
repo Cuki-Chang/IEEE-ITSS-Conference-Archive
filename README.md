@@ -3,8 +3,6 @@
  :raising_hand:  IEEE-ITSS-Conference-Archive-The repository archives valuable information related to intelligent transportation systems from 2020 to the present (continuous updating).
 
 
-
-
 ## :star: Table of Contents
 
 - [Conference Websites by Year](#conference-websites-by-year)
@@ -22,7 +20,7 @@
 - [2020](conference-2020/)
 
 
-## 🚀Academic Papers by Categories 
+## 🚀 Academic Papers by Categories 
 
 - [Paper 1-Traffic Management and Control](papers/paper1.pdf)
 - [Paper 2-Connected and Autonomous Vehicles (CAVs)](papers/paper2.pdf)
