@@ -1,5 +1,5 @@
 # Intelligent Transportation Systems (ITS) Conference Archive
-:rocket: :star: :fire: :octocat: :atom: :computer: :my_custom_emoji: :us: :fr: :jp:
+:rocket: :star: :fire: :octocat: :atom: :computer: :us: :fr: :jp:
 
 
 
