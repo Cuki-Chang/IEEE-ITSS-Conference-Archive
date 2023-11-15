@@ -1,4 +1,4 @@
-# :rocket:  :fire: :raising_hand:  Intelligent Transportation Systems (ITS) Conference Archive 
+# :rocket:  :fire: :raising_hand:  Intelligent Transportation Systems (ITS) Conference Archive 👋 
 
 IEEE-ITSS-Conference-Archive-The repository archives valuable information related to intelligent transportation systems from 2020 to the present (continuous updating).
 
@@ -60,7 +60,7 @@ Please feel free to send pull requests or contact me via email (changliu@hit.bme
 We welcome contributions from the community and appreciate your help in making this project better.
 
 
-## License
+## License 🌱
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
