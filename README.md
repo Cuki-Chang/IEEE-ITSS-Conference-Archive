@@ -53,7 +53,7 @@ IEEE-ITSS-Conference-Archive-The repository archives valuable information relate
 - [Conference Proceedings 2020](proceedings/conference-proceedings-2020)
 
 
-## :fire: Contributing
+## :two_men_holding_hands: Contributing
 
 Please feel free to send pull requests or contact me via email (changliu@hit.bme.hu) to add links, suggest improvements, or report issues.
 
