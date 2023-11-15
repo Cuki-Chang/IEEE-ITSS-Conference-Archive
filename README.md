@@ -20,7 +20,7 @@ IEEE-ITSS-Conference-Archive-The repository archives valuable information relate
 - [2020](conference-2020/)
 
 
-## :atom: Academic Papers by Categories 
+## :keyboard: Academic Papers by Categories 
 
 - [Paper 1-Traffic Management and Control](papers/paper1.pdf)
 - [Paper 2-Connected and Autonomous Vehicles (CAVs)](papers/paper2.pdf)
@@ -38,13 +38,13 @@ IEEE-ITSS-Conference-Archive-The repository archives valuable information relate
 - [Paper 14-Emerging Technologies](papers/paper14.pdf)
 
 
-## :octocat: Presentations
+## :book:  Presentations
 
 - [Presentation 1](presentations/presentation1.pdf)
 - [Presentation 2](presentations/presentation2.pdf)
 - [Presentation 3](presentations/presentation3.pdf)
 
-## :atom:Conference Proceedings
+## :pencil: Conference Proceedings
 
 - [Conference Proceedings 2024](proceedings/conference-proceedings-2024)
 - [Conference Proceedings 2023](proceedings/conference-proceedings-2023)
