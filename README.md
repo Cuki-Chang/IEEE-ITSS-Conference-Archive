@@ -22,7 +22,7 @@
 - [2020](conference-2020/)
 
 
-## :chart_with_upwards_trend: Academic Papers by Categories 
+## 🚀Academic Papers by Categories 
 
 - [Paper 1-Traffic Management and Control](papers/paper1.pdf)
 - [Paper 2-Connected and Autonomous Vehicles (CAVs)](papers/paper2.pdf)
