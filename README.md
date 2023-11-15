@@ -38,7 +38,7 @@ IEEE-ITSS-Conference-Archive-The repository archives valuable information relate
 - [Paper 14-Emerging Technologies](papers/paper14.pdf)
 
 
-## :book:  Presentations
+## :chart_with_upwards_trend: Presentations
 
 - [Presentation 1](presentations/presentation1.pdf)
 - [Presentation 2](presentations/presentation2.pdf)
