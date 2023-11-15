@@ -1,1 +1,4 @@
 MIT License
+git add LICENSE
+git commit -m "Add license file"
+git push
