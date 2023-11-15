@@ -1,5 +1,4 @@
-# :rocket: Intelligent Transportation Systems (ITS) Conference Archive
-:rocket: :star: :fire: :octocat: :atom: :computer: 
+# :rocket: Intelligent Transportation Systems (ITS) Conference Archive  :fire:
 
 IEEE-ITSS-Conference-Archive-The repository archives valuable information related to intelligent transportation systems from 2018 to the present(continuous updating).
 
