@@ -45,7 +45,7 @@ IEEE-ITSS-Conference-Archive-The repository archives valuable information relate
 - [Presentation 2](presentations/presentation2.pdf)
 - [Presentation 3](presentations/presentation3.pdf)
 
-## Conference Proceedings
+## :atom:Conference Proceedings
 
 - [Conference Proceedings 2024](proceedings/conference-proceedings-2024)
 - [Conference Proceedings 2023](proceedings/conference-proceedings-2023)
