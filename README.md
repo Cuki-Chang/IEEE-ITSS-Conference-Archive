@@ -2,9 +2,7 @@
 
  :raising_hand:  IEEE-ITSS-Conference-Archive-The repository archives valuable information related to intelligent transportation systems from 2020 to the present (continuous updating).
 
-:speaking_head: :man_speaking: :woman_speaking: :busts_in_silhouette:
-:microphone: :studio_microphone: :radio: :loud_sound:
-:speech_balloon: :thought_balloon: :left_speech_bubble: :right_anger_bubble:
+
 
 
 ## :star: Table of Contents
@@ -42,7 +40,7 @@
 - [Paper 14-Emerging Technologies](papers/paper14.pdf)
 
 
-## :notebook: Presentations
+##  :raising_hand: Presentations
 
 - [Presentation 1](presentations/presentation1.pdf)
 - [Presentation 2](presentations/presentation2.pdf)
