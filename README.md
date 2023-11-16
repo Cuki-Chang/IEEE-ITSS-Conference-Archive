@@ -38,14 +38,14 @@
 - [Paper 14-Emerging Technologies](papers/paper14.pdf)
 
 
-## Presentations 💻
-
+## Presentations 
+💻
 - [Presentation 1](presentations/presentation1.pdf)
 - [Presentation 2](presentations/presentation2.pdf)
 - [Presentation 3](presentations/presentation3.pdf)
 
-##  Conference Proceedings 📚
-
+##  Conference Proceedings 
+📚
 - [Conference Proceedings 2024](proceedings/conference-proceedings-2024)
 - [Conference Proceedings 2023](proceedings/conference-proceedings-2023)
 - [Conference Proceedings 2022](proceedings/conference-proceedings-2022)
@@ -53,15 +53,15 @@
 - [Conference Proceedings 2020](proceedings/conference-proceedings-2020)
 
 
-## Contributing 💥
-
+## Contributing 
+💥
 Please feel free to send pull requests or contact me via email (changliu@hit.bme.hu) to add links, suggest improvements, or report issues.
 
 We welcome contributions from the community and appreciate your help in making this project better.
 
 
-## License 🌱
-
+## License 
+🌱
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
