@@ -4,7 +4,7 @@
 Anchorage, Alaska, USA June 4 – 7, 2023
 [conference website](https://2023.ieee-iv.org/).
 
-# :alarm_clock:  The IEEE International Conference on Intelligent Transportation Systems (ITSC)
+# :star: The IEEE International Conference on Intelligent Transportation Systems (ITSC)
 Bilbao, Spain | September 24-28, 2023
 [conference website](https://2023.ieee-itsc.org/).
 
