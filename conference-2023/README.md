@@ -22,11 +22,11 @@
 
 ## Important Dates ⏰
 
-Workshop Proposal Deadline	October 15, 2022
-Tutorial Proposal Deadline	November 15, 2022
-Paper Submission Deadline	February 01, 2023
-Notification of Acceptance	March 30, 2023
-Final Paper Submission	April 22, 2023
+- Workshop Proposal Deadline	October 15, 2022
+- Tutorial Proposal Deadline	November 15, 2022
+- Paper Submission Deadline	February 01, 2023
+- Notification of Acceptance	March 30, 2023
+- Final Paper Submission	April 22, 2023
 
 
  # :star:  The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)  🚗
