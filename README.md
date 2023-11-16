@@ -9,7 +9,7 @@
  :two_men_holding_hands:
 
  
-## Table of Contents
+ :raising_hand: ## Table of Contents
 
 - [Conference Websites by Year](#conference-websites-by-year)
 - [Academic Papers by Categories ](#academic-papers-by-categories)
