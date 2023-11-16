@@ -11,7 +11,7 @@
 - [Conference Proceedings](#conference-proceedings)
 - [Contributing](#contributing)
 
-## :alarm_clock: Conference Websites by Year
+## Conference Websites by Year
 
 - [2024](conference-2024/)
 - [2023](conference-2023/)
