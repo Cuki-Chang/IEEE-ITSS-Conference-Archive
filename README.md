@@ -2,15 +2,8 @@
 
  :raising_hand:  IEEE-ITSS-Conference-Archive-The repository archives valuable information related to intelligent transportation systems from 2020 to the present (continuous updating).
 
-:alarm_clock: 
-:star:
-🚀
- :raising_hand:
- :book: 
- :two_men_holding_hands:
-
  
- ## Table of Contents 🚀
+ ## Table of Contents ⭐
 
 - [Conference Websites by Year](#conference-websites-by-year)
 - [Academic Papers by Categories ](#academic-papers-by-categories)
@@ -18,7 +11,7 @@
 - [Conference Proceedings](#conference-proceedings)
 - [Contributing](#contributing)
 
-## Conference Websites by Year 
+## Conference Websites by Year ⏰
 
 - [2024](conference-2024/)
 - [2023](conference-2023/)
@@ -27,7 +20,7 @@
 - [2020](conference-2020/)
 
 
-## Academic Papers by Categories 
+## Academic Papers by Categories 🚀
 
 - [Paper 1-Traffic Management and Control](papers/paper1.pdf)
 - [Paper 2-Connected and Autonomous Vehicles (CAVs)](papers/paper2.pdf)
@@ -45,13 +38,13 @@
 - [Paper 14-Emerging Technologies](papers/paper14.pdf)
 
 
-## Presentations
+## Presentations 💻
 
 - [Presentation 1](presentations/presentation1.pdf)
 - [Presentation 2](presentations/presentation2.pdf)
 - [Presentation 3](presentations/presentation3.pdf)
 
-##  Conference Proceedings
+##  Conference Proceedings 📚
 
 - [Conference Proceedings 2024](proceedings/conference-proceedings-2024)
 - [Conference Proceedings 2023](proceedings/conference-proceedings-2023)
@@ -60,7 +53,7 @@
 - [Conference Proceedings 2020](proceedings/conference-proceedings-2020)
 
 
-## Contributing
+## Contributing 💥
 
 Please feel free to send pull requests or contact me via email (changliu@hit.bme.hu) to add links, suggest improvements, or report issues.
 
