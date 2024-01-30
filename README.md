@@ -29,7 +29,7 @@
 
 
 ## Academic Topics by Categories 
-🚀This section needs to be modified...
+🚀This section (papers) needs to be modified...
 - [Topic 1-Traffic Management and Control](papers/paper1.pdf)
 - [Topic 2-Connected and Autonomous Vehicles (CAVs)](papers/paper2.pdf)
 - [Topic 3-Traffic Data Analysis](papers/paper3.pdf)
