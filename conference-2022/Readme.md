@@ -53,3 +53,19 @@
 - Early Registrations Deadline: October, 4th, 2022,
 - Authors Registrations Deadline: November, 1st 2022,
 - Conference Days: November 14th – 16th, 2022,
+
+ # :star: 2022 IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA 2022)  🚗
+
+- **Date:**   August 29 – 31, 2022
+- **Location:**  Taipei, Taiwan 
+- **Official Website:** [MESA 2022](https://mesa2022.org/)
+
+## Important Dates ⏰
+
+-Submission of full-length paper:16-Oct-2022
+-Author notification of acceptance:31-Oct-2022
+-Submission of copyright form:07-Nov-2022
+-Submission of final paper:07-Nov-2022
+
+
+
