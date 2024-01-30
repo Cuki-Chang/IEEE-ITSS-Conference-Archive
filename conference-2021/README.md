@@ -16,7 +16,7 @@
 
 
 
-# :star:33rd IEEE Intelligent Vehicles Symposium (IV 2021) 🚗
+# :star:IEEE Intelligent Vehicles Symposium (IV 2021) 🚗
 
 - **Date:**  JULY 11-17, 2021
 - **Location:** NAGOYA UNIVERSITY, NAGOYA, JAPAN
@@ -24,7 +24,7 @@
 
 
 
- # :star:  The 24th IEEE International Conference on Intelligent Transportation Systems (ITSC 2021)  🚗
+ # :star: IEEE International Conference on Intelligent Transportation Systems (ITSC 2021)  🚗
 
 - **Date:**  September 19-22, 2021
 - **Location:** Indianapolis, IN, United States
