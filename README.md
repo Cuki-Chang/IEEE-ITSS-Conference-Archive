@@ -48,6 +48,9 @@
 📚
 - [Conference Proceedings IV](proceedings/IV)
 - [Conference Proceedings ITSC](proceedings/ITSC)
+- [Conference Proceedings ITSC](proceedings/ICVES)
+- [Conference Proceedings ITSC](proceedings/ISI)
+- [Conference Proceedings ITSC](proceedings/MESA)
 
 
 
