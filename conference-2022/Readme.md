@@ -39,6 +39,17 @@
 
 - July 20, 2022 August 8,2022: Final paper submission
 
+ # :star: IEEE International Conference on Vehicular Electronics and Safety (ICVES 2022)  🚗
 
+- **Date:**  November 14-16
+- **Location:**  Bogotá, Colombia
+- **Official Website:** [ICVES 2022](https://icves2022.org/)
 
+## Important Dates ⏰
 
+- Submission of full papers: August 9th , 2022 September 4th, 2022 September 11st, 2022
+- Notification of acceptance: September 15th , 2022September 25th , 2022October 7th , 2022
+- Submission of camera-ready papers: November 2nd, 2022 — Please follow the instructions that have been send to you by mail
+- Early Registrations Deadline: October, 4th, 2022,
+- Authors Registrations Deadline: November, 1st 2022,
+- Conference Days: November 14th – 16th, 2022,
