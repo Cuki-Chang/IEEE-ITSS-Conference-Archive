@@ -6,8 +6,8 @@
  ## Table of Contents 
 ⭐
 - [Conference Websites by Year](#conference-websites-by-year)
-- [Academic Papers by Categories ](#academic-papers-by-categories)
 - [Conference Proceedings](#conference-proceedings)
+- [Academic Papers by Categories ](#academic-papers-by-categories)
 - [Contributing](#contributing)
 
 ## Conference Websites by Year 
@@ -17,6 +17,15 @@
 - [2023](conference-2023/)
 - [2022](conference-2022/)
 - [2021](conference-2021/)
+
+
+##  Conference Proceedings 
+📚
+- [Conference Proceedings IV](proceedings/IV)
+- [Conference Proceedings ITSC](proceedings/ITSC)
+- [Conference Proceedings ICVES](proceedings/ICVES)
+- [Conference Proceedings ISI](proceedings/ISI)
+- [Conference Proceedings MESA](proceedings/MESA)
 
 
 ## Academic Papers by Categories 
@@ -35,17 +44,6 @@
 - [Paper 12-Electric and Alternative Fuel Vehicles](papers/paper12.pdf)
 - [Paper 13-ITS Policy and Regulation](papers/paper13.pdf)
 - [Paper 14-Emerging Technologies](papers/paper14.pdf)
-
-
-
-##  Conference Proceedings 
-📚
-- [Conference Proceedings IV](proceedings/IV)
-- [Conference Proceedings ITSC](proceedings/ITSC)
-- [Conference Proceedings ICVES](proceedings/ICVES)
-- [Conference Proceedings ISI](proceedings/ISI)
-- [Conference Proceedings MESA](proceedings/MESA)
-
 
 
 
