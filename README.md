@@ -7,7 +7,6 @@
 ⭐
 - [Conference Websites by Year](#conference-websites-by-year)
 - [Academic Papers by Categories ](#academic-papers-by-categories)
-- [Presentations](#presentations)
 - [Conference Proceedings](#conference-proceedings)
 - [Contributing](#contributing)
 
@@ -38,11 +37,6 @@
 - [Paper 14-Emerging Technologies](papers/paper14.pdf)
 
 
-## Presentations 
-💻
-- [Presentation 1](presentations/presentation1.pdf)
-- [Presentation 2](presentations/presentation2.pdf)
-- [Presentation 3](presentations/presentation3.pdf)
 
 ##  Conference Proceedings 
 📚
