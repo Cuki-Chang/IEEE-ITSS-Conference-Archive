@@ -28,22 +28,22 @@
 - [Conference Proceedings MESA](proceedings/MESA)
 
 
-## Academic Papers by Categories 
+## Academic Topics by Categories 
 🚀This section needs to be modified...
-- [Paper 1-Traffic Management and Control](papers/paper1.pdf)
-- [Paper 2-Connected and Autonomous Vehicles (CAVs)](papers/paper2.pdf)
-- [Paper 3-Traffic Data Analysis](papers/paper3.pdf)
-- [Paper 4-Transportation Planning and Optimization](papers/paper4.pdf)
-- [Paper 5-Smart Cities and Infrastructure](papers/paper5.pdf)
-- [Paper 6-Traffic Simulation and Modeling](papers/paper6.pdf)
-- [Paper 7-Intelligent Transportation System Architecture](papers/paper7.pdf)
-- [Paper 8-Human Factors and Driver Behavior](papers/paper8.pdf)
-- [Paper 9-Environmental Impacts and Sustainability](papers/paper9.pdf)
-- [Paper 10-Big Data and Machine Learning in ITS](papers/paper10.pdf)
-- [Paper 11-Traffic Safety and Security](papers/paper11.pdf)
-- [Paper 12-Electric and Alternative Fuel Vehicles](papers/paper12.pdf)
-- [Paper 13-ITS Policy and Regulation](papers/paper13.pdf)
-- [Paper 14-Emerging Technologies](papers/paper14.pdf)
+- [Topic 1-Traffic Management and Control](papers/paper1.pdf)
+- [Topic 2-Connected and Autonomous Vehicles (CAVs)](papers/paper2.pdf)
+- [Topic 3-Traffic Data Analysis](papers/paper3.pdf)
+- [Topic 4-Transportation Planning and Optimization](papers/paper4.pdf)
+- [Topic 5-Smart Cities and Infrastructure](papers/paper5.pdf)
+- [Topic 6-Traffic Simulation and Modeling](papers/paper6.pdf)
+- [Topic 7-Intelligent Transportation System Architecture](papers/paper7.pdf)
+- [Topic 8-Human Factors and Driver Behavior](papers/paper8.pdf)
+- [Topic 9-Environmental Impacts and Sustainability](papers/paper9.pdf)
+- [Topic 10-Big Data and Machine Learning in ITS](papers/paper10.pdf)
+- [Topic 11-Traffic Safety and Security](papers/paper11.pdf)
+- [Topic 12-Electric and Alternative Fuel Vehicles](papers/paper12.pdf)
+- [Topic 13-ITS Policy and Regulation](papers/paper13.pdf)
+- [Topic 14-Emerging Technologies](papers/paper14.pdf)
 
 
 
