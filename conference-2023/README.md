@@ -43,6 +43,19 @@
 - June 30th, 2023 July 10th, 2023 – Notification of paper acceptance
 - July 31st, 2023 August 15th, 2023 – Final paper submission deadline
 
+# :star: 2023 IEEE Intelligence and Security Informatics (ISI 2023)  🚗
 
+- **Date:**  October 2 – 3, 2023
+- **Location:**  Charlotte, North Carolina, USA
+- **Official Website:** [ISI 2023](https://ieee-isi.org/2023/)
+
+## Important Dates ⏰
+
+-Submission Open: April 20, 2023
+-Submission Deadline: May 15, 2023 May 30, 2023, 11:59PM EST (extended)
+-Acceptance Notification: July 15, 2023
+-Final Paper Deadline: August 1, 2023
+-Early registration deadline: August 25, 2023
+-Conference dates: October 2 – 3, 2023
 
 
