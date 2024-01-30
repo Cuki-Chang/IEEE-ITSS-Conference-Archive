@@ -15,7 +15,7 @@
 
 
 
-# :star:33rd IEEE Intelligent Vehicles Symposium (IV 2022) 🚗
+# :star:IEEE Intelligent Vehicles Symposium (IV 2022) 🚗
 
 - **Date:**  June 5– 9, 2022
 - **Location:** Aachen，Germany
@@ -23,7 +23,7 @@
 
 
 
- # :star:  The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC 2022)  🚗
+ # :star: IEEE International Conference on Intelligent Transportation Systems (ITSC 2022)  🚗
 
 - **Date:**  Sep 18- Oct 12 2022
 - **Location:**  Macau, Chian
