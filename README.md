@@ -46,11 +46,9 @@
 
 ##  Conference Proceedings 
 📚
-- [Conference Proceedings 2025](proceedings/conference-proceedings-2025)
-- [Conference Proceedings 2024](proceedings/conference-proceedings-2024)
-- [Conference Proceedings 2023](proceedings/conference-proceedings-2023)
-- [Conference Proceedings 2022](proceedings/conference-proceedings-2022)
-- [Conference Proceedings 2021](proceedings/conference-proceedings-2021)
+- [Conference Proceedings IV](proceedings/IV)
+- [Conference Proceedings ITSC](proceedings/ITSC)
+
 
 
 
