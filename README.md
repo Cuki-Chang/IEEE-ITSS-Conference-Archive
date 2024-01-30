@@ -7,7 +7,7 @@
 ⭐
 - [Conference Websites by Year](#conference-websites-by-year)
 - [Conference Proceedings](#conference-proceedings)
-- [Academic Papers by Categories ](#academic-papers-by-categories)
+- [Academic Topics by Categories ](#academic-topics-by-categories)
 - [Contributing](#contributing)
 
 ## Conference Websites by Year 
