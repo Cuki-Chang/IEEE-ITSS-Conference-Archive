@@ -18,7 +18,7 @@
 
 - **Date:** coming soon
 - **Location:** Cluj, Romania
-- **Official Website:** [IEEE IV 2025](https://ieee-itsc.org/2025/)
+- **Official Website:** [IEEE IV 2025](https://ieee-iv.org/2025/)
 
 ## Important Dates ⏰
 
@@ -31,7 +31,7 @@
 
 - **Date:**  November 18 - 21, 2025
 - **Location:**   Gold Coast, Australia
-- **Official Website:** [ITSC 2025](https://ieee-iv.org/2025/)
+- **Official Website:** [ITSC 2025](https://ieee-itsc.org/2025/)
 
 ## Important Dates ⏰
 
