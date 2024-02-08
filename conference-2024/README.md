@@ -59,4 +59,19 @@
 - Notification of Acceptance Date: January 7, 2024
 - Final Paper Submission Date: January 26, 2024
 
+- Call For Papers: Program Topics
+Program topics include:
+Carbon-Neutral Transportation Solutions
+Eco-Friendly Intelligent Transportation Systems
+Connected and Automated Vehicles Designed for Environmental Sustainability
+Sustainable Freight Transportation
+Emerging Technologies on Sustainable Transportation
+Policy Design and Implementation for Sustainable Transportation
+Use of Renewable Energy for Transportation
+Zero-Emission Vehicles (e.g., Electric Vehicles) and Infrastructure
+Micro-Mobility and Shared Mobility
+Environmental Impacts of Transportation
+Transportation Efficiency
+Integrated Systems toward Climate Mitigation and Adaptation
+
 
