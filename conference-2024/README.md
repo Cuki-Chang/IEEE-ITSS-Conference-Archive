@@ -47,7 +47,7 @@
 - July 31, 2024: Final paper submission deadline.
 
 
-# :star: FISTS 2024: 4th IEEE Forum for Innovative Sustainable Transportation Systems🚗
+# :star: 4th IEEE Forum for Innovative Sustainable Transportation Systems (FISTS 2024)🚗
 
 - **Date:** February 26th – 28th, 2024
 - **Location:** Riverside, California, USA
