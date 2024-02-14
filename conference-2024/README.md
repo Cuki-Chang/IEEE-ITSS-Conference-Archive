@@ -27,6 +27,10 @@
 - Notification of Acceptance: March 30, 2024
 - Final Paper Submission: April 22, 2024
 
+-Call for Journal Presentations
+-Important Dates
+-Journal Paper Presentation Request Deadline: March 15, 2024
+-Journal Paper Presentation Request Notification: April 22, 2024
 
  # :star: The IEEE International Conference on Intelligent Transportation Systems (ITSC 2024) 🚗
 
