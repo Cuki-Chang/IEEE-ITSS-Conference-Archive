@@ -26,7 +26,7 @@
 - Paper Submission Deadline: February 01, 2024
 - Notification of Acceptance: March 30, 2024
 - Final Paper Submission: April 22, 2024
-
+-------------------------------------------------------------------------
 - Call for Journal Presentations
 - Important Dates
 - Journal Paper Presentation Request Deadline: March 15, 2024
