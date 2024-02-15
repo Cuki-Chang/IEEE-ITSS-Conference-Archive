@@ -1,4 +1,5 @@
-MIT License
+This project is supported by ITSS.
+
 git add LICENSE
 git commit -m "Add license file"
 git push
