@@ -56,7 +56,9 @@ We welcome contributions from the community and appreciate your help in making t
 
 ## License 
 🌱
--This project is licensed under the [IEEE ITSS](https://ieee-itss.org/)
+-This project is licensed under the [IEEE ITSS](https://ieee-itss.org/).
+
+
 🌱
 -This project is funded and supported by [2023 Fellowships for Young Researchers, Promoting Diversity and Leadership in ITS](https://ieee-itss.org/2023-fellowships-for-young-researchers-promoting-diversity-and-leadership-in-its/).
 
