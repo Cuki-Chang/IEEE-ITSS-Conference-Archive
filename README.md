@@ -2,7 +2,7 @@
 
  :raising_hand:  IEEE-ITSS-Conference-Archive-The repository archives valuable information related to intelligent transportation systems from 2021 to the present (continuous updating).
 
-![](https://giphy.com/gifs/Roborace-future-futuristic-artificial-intelligence-VfL5ZU3Wh2iZgYgGrJ)
+![](https://media.giphy.com/media/VfL5ZU3Wh2iZgYgGrJ/giphy.gif)
 
  ## Table of Contents 
 ⭐
