@@ -56,8 +56,8 @@ We welcome contributions from the community and appreciate your help in making t
 
 ## License 
 🌱
-This project is licensed under the ITSS
-This project is funded and supported by IEEE ITSS.
+-This project is licensed under the ITSS.
+-This project is funded and supported by IEEE ITSS.
 
 
 
