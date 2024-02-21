@@ -10,6 +10,11 @@
 ⭐
 - [Conference Websites by Year](#conference-websites-by-year)
 - [Conference Proceedings](#conference-proceedings)
+- [Journals Section](#Journals-Section)
+- [Learning Hub](#Learning-Hub)
+- [Bookshelf](#Bookshelf)
+- [Datasets Corner](#Datasets-Corner)
+- [Code-with-Paper Implementation](#Code-with-Paper-Implementation)
 - [Academic Topics by Categories ](#academic-topics-by-categories)
 - [Contributing](#contributing)
 
