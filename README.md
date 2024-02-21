@@ -1,6 +1,6 @@
-# :fire:👋🚙Intelligent Transportation Systems (ITS) Conference Archive 
+# :fire:👋🚙Awesome Intelligent Transportation Systems Repository
 
- :raising_hand:  IEEE-ITSS-Conference-Archive
+ :raising_hand: Intelligent Transportation Systems (ITS) Conference Archive 
  
  The repository archives valuable information related to intelligent transportation systems from 2021 to the present (continuous updating).
 
