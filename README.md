@@ -17,8 +17,8 @@
 - [Datasets Corner](#Datasets-Corner)
 - [Code-with-Paper Implementation](#Code-with-Paper-Implementation)
 - [Blogs Showcase](#Blogs-Showcase)
-- [Social Media Promotion](#Social-Media-Promotion:)
-- [Intelligent Interaction Experience](#Intelligent-Interaction-Experience:)
+- [Social Media Promotion](#Social-Media-Promotion)
+- [Intelligent Interaction Experience](#Intelligent-Interaction-Experience)
 - [Contributing](#contributing)
 
 ## Conference Websites by Year 
