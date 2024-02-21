@@ -10,12 +10,15 @@
 ⭐
 - [Conference Websites by Year](#conference-websites-by-year)
 - [Conference Proceedings](#conference-proceedings)
+- [Academic Topics by Categories ](#academic-topics-by-categories)
 - [Journals Section](#Journals-Section)
 - [Learning Hub](#Learning-Hub)
 - [Bookshelf](#Bookshelf)
 - [Datasets Corner](#Datasets-Corner)
 - [Code-with-Paper Implementation](#Code-with-Paper-Implementation)
-- [Academic Topics by Categories ](#academic-topics-by-categories)
+- [Blogs Showcase](#Blogs-Showcase)
+- [Social Media Promotion](#Social-Media-Promotion:)
+- [Intelligent Interaction Experience](#Intelligent-Interaction-Experience:)
 - [Contributing](#contributing)
 
 ## Conference Websites by Year 
