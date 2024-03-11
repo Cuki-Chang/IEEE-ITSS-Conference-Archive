@@ -1,4 +1,4 @@
-# :fire:👋🚙Awesome Intelligent Transportation Systems Repository
+# :fire:👋🚙Awesome Intelligent Transportation Systems Repository (ITSS)
 
  :raising_hand: Intelligent Transportation Systems (ITS) Conference Archive 
  
